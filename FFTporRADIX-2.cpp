@@ -1,7 +1,7 @@
 //
 //                   CÁLCULO DE FFT PELO ALGORITMO RADIX-2
 //
-// 	Por: Heitor Rodrigues Lemos Dias
+// 	Por: Heitor Lemos
 //	12/08/2021
 //
 //________________________________________________________________________________________
